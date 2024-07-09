@@ -3,3 +3,7 @@
 
 # Table of Contents - 
 ## জাভাস্ক্রিপ্ট ব্যাসিক-
+- [জাভাস্ক্রিপ্টে ভ্যারিয়েবল কি জিনিস?](https://github.com/sohagbyte/weird.js/blob/main/JavaScript%20Blogs/Introduction-to-Variable-in-javascript.md)
+- [**var** ব্যাবহার করে ভ্যারিয়েবল তৈরী করা।](https://github.com/sohagbyte/weird.js/blob/main/JavaScript%20Blogs/var-keyword-in-javascript.md)
+- [**let** ব্যাবহার করে ভ্যারিয়েবল তৈরী করা।](https://github.com/sohagbyte/weird.js/blob/main/JavaScript%20Blogs/let-keyword-in-javascript.md)
+- [**const** কি আসলেও এত কনফিউজিং?](https://github.com/sohagbyte/weird.js/blob/main/JavaScript%20Blogs/const-in-javascript.md)
