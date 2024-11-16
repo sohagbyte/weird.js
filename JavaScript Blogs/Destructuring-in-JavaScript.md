@@ -9,4 +9,4 @@ Destructuring হচ্ছে একটা জাভাস্ক্রিপ্�
 Destructuring কিন্তু জাভাস্ক্রিপ্টের অরিজিনাল অ্যারে বা অবজেক্ট কে চেঞ্জ বা মডিফাই করে না।
 
 ## JavaScript Array Destructuring
-![alt text](<Blue Modern Artificial Intelligence YouTube Thumbnail.png>)
+![Blue Modern Artificial Intelligence YouTube Thumbnail](https://github.com/user-attachments/assets/3b384160-b330-404a-8e3d-1ae347f81990)
